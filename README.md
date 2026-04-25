@@ -1,144 +1,40 @@
-<div align="center">
+# Hi, I'm Yogev 👋
 
-# Hi, I'm Yogev Kriger 👋
+📍 Tel Aviv · 🌲 [Sawmills.ai](https://sawmills.ai) telemetry wrangler · 🤖 building agent tooling on the side
 
-### I build CLIs, agents, and home-automation hacks
-#### Currently wrangling telemetry @ Sawmills.ai
+![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=F7768E) ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=7AA2F7) ![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=E0AF68) ![Go](https://img.shields.io/badge/Go-000?style=flat-square&logo=go&logoColor=7DCFFF) ![Node.js](https://img.shields.io/badge/Node-000?style=flat-square&logo=node.js&logoColor=9ECE6A) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000?style=flat-square&logo=opentelemetry&logoColor=BB9AF7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-000?style=flat-square&logo=cloudflare&logoColor=F7768E)
 
-<p>
-  <a href="https://sawmills.ai"><img src="https://img.shields.io/badge/%40-Sawmills.ai-1A1B26?style=for-the-badge&labelColor=7AA2F7&logoColor=white" alt="Sawmills.ai" /></a>
-  <img src="https://img.shields.io/badge/Based%20in-Israel-1A1B26?style=for-the-badge&labelColor=BB9AF7" alt="Israel" />
-  <a href="https://github.com/YogevKr?tab=repositories"><img src="https://img.shields.io/badge/Public%20repos-59-1A1B26?style=for-the-badge&labelColor=9ECE6A" alt="59 repos" /></a>
-</p>
+> I make small, sharp tools — usually a CLI, often something that scratches a personal itch. Lately a lot of agent tooling and home reverse-engineering.
 
-<img src="https://github-readme-stats.vercel.app/api?username=YogevKr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5&include_all_commits=true&count_private=false" height="160" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogevKr&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&text_color=C0CAF5&langs_count=8" height="160" alt="Top languages" />
+### 🛠️ Current Projects
 
-</div>
+- 🦀 **[agent-history](https://github.com/YogevKr/agent-history)** — Unified TUI for Claude Code & Codex session history. Syntax highlight, search, scrub.
+- 📱 **[agent-tether](https://github.com/YogevKr/agent-tether)** — Drive your local coding agent from Telegram.
+- ✈️ **[itamx](https://github.com/YogevKr/itamx)** — ITA Matrix airfare search as CLI + MCP server (via the reverse-engineered JSON API).
+- 📓 **[mncli](https://github.com/YogevKr/mncli)** — Talk to a running marimo notebook from your shell.
+- ✅ **[things-cli](https://github.com/YogevKr/things-cli)** — Rust CLI letting agents work directly with Things 3.
+- 🔖 **[x-bookmarks](https://github.com/YogevKr/x-bookmarks)** — Pipe your X bookmarks through grep, jq & friends.
 
----
+### 🏠 Home & Hardware
 
-### 🧰 What I'm building
+- 🚨 **[risco-control](https://github.com/YogevKr/risco-control)** — Full Risco alarm panel control. 307/307 commands. Web UI + macOS app, replaces CS.exe.
+- 📟 **[provision-isr-alarm-server](https://github.com/YogevKr/provision-isr-alarm-server)** — Reverse-engineered server for Provision-ISR alarm panels.
+- 👶 **[nanit-camera-light](https://github.com/YogevKr/nanit-camera-light)** — Toggle the LED on Nanit baby cameras.
+- ⚡ **[home-energy-reporter](https://github.com/YogevKr/home-energy-reporter)** — Smart-meter consumption pulled into a daily report.
 
-I like making small, sharp tools — usually a CLI, often something that scratches a personal itch (gate relays, alarm panels, agent session history). Lately a lot of work around **AI coding agents** and **OpenTelemetry** pipelines.
+### 🔔 Notifiers & Relays
 
-```text
-🤖 AI agents · 🚨 Civilian alert systems · 🏠 Smart home reverse-engineering · 🛠️ Developer CLIs
-```
+- 🚨 **[red-alerts-notifier](https://github.com/YogevKr/red-alerts-notifier)** — Self-hosted Home Front Command red-alert notifier (WhatsApp + Telegram).
+- 📧 **[smtp2x](https://github.com/YogevKr/smtp2x)** — Tiny SMTP server that forwards every email anywhere.
+- 🎤 **[confrenceradar](https://github.com/YogevKr/confrenceradar)** — Tracks conferences worth attending.
+- 🔗 **[save-to-goodlinks-chrome-extension](https://github.com/YogevKr/save-to-goodlinks-chrome-extension)** — One-click "Save to GoodLinks" from any browser tab.
 
----
+### 📦 And also
 
-### ⭐ Featured projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🤖 AI agent tooling
-
-<a href="https://github.com/YogevKr/agent-history">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YogevKr&repo=agent-history&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
-</a>
-<a href="https://github.com/YogevKr/agent-tether">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YogevKr&repo=agent-tether&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
-</a>
-<a href="https://github.com/YogevKr/itamx">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YogevKr&repo=itamx&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
-</a>
-<a href="https://github.com/YogevKr/mncli">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YogevKr&repo=mncli&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-#### 🏠 Home & hardware hacks
-
-<a href="https://github.com/YogevKr/risco-control">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YogevKr&repo=risco-control&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
-</a>
-<a href="https://github.com/YogevKr/nanit-camera-light">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YogevKr&repo=nanit-camera-light&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
-</a>
-<a href="https://github.com/YogevKr/home-energy-reporter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YogevKr&repo=home-energy-reporter&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
-</a>
-<a href="https://github.com/YogevKr/provision-isr-alarm-server">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YogevKr&repo=provision-isr-alarm-server&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🔔 Notifiers & integrations
-
-<a href="https://github.com/YogevKr/red-alerts-notifier">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YogevKr&repo=red-alerts-notifier&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
-</a>
-<a href="https://github.com/YogevKr/smtp2x">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YogevKr&repo=smtp2x&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
-</a>
-<a href="https://github.com/YogevKr/confrenceradar">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YogevKr&repo=confrenceradar&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
-</a>
-<a href="https://github.com/YogevKr/save-to-goodlinks-chrome-extension">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YogevKr&repo=save-to-goodlinks-chrome-extension&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-#### 🛠️ Personal CLIs & utilities
-
-<a href="https://github.com/YogevKr/things-cli">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YogevKr&repo=things-cli&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
-</a>
-<a href="https://github.com/YogevKr/x-bookmarks">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YogevKr&repo=x-bookmarks&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
-</a>
-<a href="https://github.com/YogevKr/draftsx">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YogevKr&repo=draftsx&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
-</a>
-<a href="https://github.com/YogevKr/homebrew-tap">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YogevKr&repo=homebrew-tap&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
-</a>
-
-</td>
-</tr>
-</table>
+- 🍺 **[homebrew-tap](https://github.com/YogevKr/homebrew-tap)** — My homebrew formulae.
+- 🗂️ **[dotfiles](https://github.com/YogevKr/dotfiles)** — How my machine looks at 2am.
+- 📝 **[draftsx](https://github.com/YogevKr/draftsx)** — Drafts.app helper.
 
 ---
 
-### 🧱 Tech I reach for
-
-<p>
-  <img src="https://img.shields.io/badge/Rust-1A1B26?style=for-the-badge&logo=rust&logoColor=F7768E" />
-  <img src="https://img.shields.io/badge/TypeScript-1A1B26?style=for-the-badge&logo=typescript&logoColor=7AA2F7" />
-  <img src="https://img.shields.io/badge/Python-1A1B26?style=for-the-badge&logo=python&logoColor=E0AF68" />
-  <img src="https://img.shields.io/badge/Go-1A1B26?style=for-the-badge&logo=go&logoColor=7DCFFF" />
-  <img src="https://img.shields.io/badge/Node.js-1A1B26?style=for-the-badge&logo=node.js&logoColor=9ECE6A" />
-  <img src="https://img.shields.io/badge/OpenTelemetry-1A1B26?style=for-the-badge&logo=opentelemetry&logoColor=BB9AF7" />
-  <img src="https://img.shields.io/badge/Cloudflare%20Workers-1A1B26?style=for-the-badge&logo=cloudflare&logoColor=F7768E" />
-  <img src="https://img.shields.io/badge/Docker-1A1B26?style=for-the-badge&logo=docker&logoColor=7AA2F7" />
-</p>
-
----
-
-### 📈 Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YogevKr&theme=tokyo-night&hide_border=true&bg_color=1A1B26&color=7AA2F7&line=BB9AF7&point=F7768E&area=true&area_color=7AA2F7" alt="Activity graph" />
-
-</div>
-
----
-
-<div align="center">
-
-<sub>Made with ♥ in Tel Aviv · <a href="https://github.com/YogevKr?tab=repositories">browse all 59 repos →</a></sub>
-
-</div>
-
+<sub>📊 [browse all 59 repos →](https://github.com/YogevKr?tab=repositories)</sub>
