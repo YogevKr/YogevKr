@@ -1,8 +1,9 @@
 <div align="center">
 
-<a href="https://github.com/YogevKr">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=800&color=7AA2F7&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Yogev+Kriger+%F0%9F%91%8B;I+build+CLIs%2C+agents%2C+and+home-automation+hacks;Currently+wrangling+telemetry+%40+Sawmills.ai" alt="Typing intro" />
-</a>
+# Hi, I'm Yogev Kriger 👋
+
+### I build CLIs, agents, and home-automation hacks
+#### Currently wrangling telemetry @ Sawmills.ai
 
 <p>
   <a href="https://sawmills.ai"><img src="https://img.shields.io/badge/%40-Sawmills.ai-1A1B26?style=for-the-badge&labelColor=7AA2F7&logoColor=white" alt="Sawmills.ai" /></a>
