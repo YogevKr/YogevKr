@@ -59,8 +59,8 @@ I like making small, sharp tools — usually a CLI, often something that scratch
 <a href="https://github.com/YogevKr/nanit-camera-light">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=YogevKr&repo=nanit-camera-light&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
 </a>
-<a href="https://github.com/YogevKr/palgate-control">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YogevKr&repo=palgate-control&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
+<a href="https://github.com/YogevKr/home-energy-reporter">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YogevKr&repo=home-energy-reporter&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
 </a>
 <a href="https://github.com/YogevKr/provision-isr-alarm-server">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=YogevKr&repo=provision-isr-alarm-server&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
@@ -71,19 +71,19 @@ I like making small, sharp tools — usually a CLI, often something that scratch
 <tr>
 <td width="50%" valign="top">
 
-#### 🚨 Israel civilian alerts
+#### 🔔 Notifiers & integrations
 
 <a href="https://github.com/YogevKr/red-alerts-notifier">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=YogevKr&repo=red-alerts-notifier&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
 </a>
-<a href="https://github.com/YogevKr/red-alerts-pipeline">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YogevKr&repo=red-alerts-pipeline&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
+<a href="https://github.com/YogevKr/smtp2x">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YogevKr&repo=smtp2x&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
 </a>
-<a href="https://github.com/YogevKr/ellipse-notifier">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YogevKr&repo=ellipse-notifier&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
+<a href="https://github.com/YogevKr/confrenceradar">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YogevKr&repo=confrenceradar&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
 </a>
-<a href="https://github.com/YogevKr/alonei-abba-alerts">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YogevKr&repo=alonei-abba-alerts&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
+<a href="https://github.com/YogevKr/save-to-goodlinks-chrome-extension">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YogevKr&repo=save-to-goodlinks-chrome-extension&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
 </a>
 
 </td>
@@ -100,8 +100,8 @@ I like making small, sharp tools — usually a CLI, often something that scratch
 <a href="https://github.com/YogevKr/draftsx">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=YogevKr&repo=draftsx&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
 </a>
-<a href="https://github.com/YogevKr/save-to-goodlinks-chrome-extension">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YogevKr&repo=save-to-goodlinks-chrome-extension&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
+<a href="https://github.com/YogevKr/homebrew-tap">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YogevKr&repo=homebrew-tap&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
 </a>
 
 </td>
