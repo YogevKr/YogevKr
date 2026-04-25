@@ -1,6 +1,6 @@
 # Hi, I'm Yogev 👋
 
-📍 Tel Aviv · 🌲 [Sawmills.ai](https://sawmills.ai) telemetry wrangler · 🤖 building agent tooling on the side
+🌲 [Sawmills.ai](https://sawmills.ai) telemetry wrangler · 🤖 building agent tooling on the side
 
 ![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=F7768E) ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=7AA2F7) ![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=E0AF68) ![Go](https://img.shields.io/badge/Go-000?style=flat-square&logo=go&logoColor=7DCFFF) ![Node.js](https://img.shields.io/badge/Node-000?style=flat-square&logo=node.js&logoColor=9ECE6A) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000?style=flat-square&logo=opentelemetry&logoColor=BB9AF7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-000?style=flat-square&logo=cloudflare&logoColor=F7768E)
 
