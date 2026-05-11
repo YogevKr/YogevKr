@@ -17,7 +17,7 @@
 
 ### 🏠 Home & Hardware
 
-- 🚨 **[risco-control](https://github.com/YogevKr/risco-control)** — Full Risco alarm panel control. 307/307 commands. Web UI + macOS app, replaces CS.exe.
+- 🚨 **[risco-control](https://github.com/YogevKr/risco-control)** — Full Risco alarm panel control. 307/307 commands. Web UI + macOS app.
 - 📟 **[provision-isr-alarm-server](https://github.com/YogevKr/provision-isr-alarm-server)** — Reverse-engineered server for Provision-ISR alarm panels.
 - 👶 **[nanit-camera-light](https://github.com/YogevKr/nanit-camera-light)** — Toggle the LED on Nanit baby cameras.
 - ⚡ **[home-energy-reporter](https://github.com/YogevKr/home-energy-reporter)** — Smart-meter consumption pulled into a daily report.
