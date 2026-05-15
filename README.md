@@ -25,7 +25,7 @@
 ### 🔔 Notifiers & Relays
 
 - 🚨 **[red-alerts-notifier](https://github.com/YogevKr/red-alerts-notifier)** — Self-hosted Home Front Command red-alert notifier (WhatsApp + Telegram).
-- 📧 **[smtp2x](https://github.com/YogevKr/smtp2x)** — Tiny SMTP server that forwards every email anywhere.
+- 📧 **[smtp_to_telegram](https://github.com/YogevKr/smtp_to_telegram)** — SMTP listener that relays incoming email to Telegram.
 - 🎤 **[confrenceradar](https://github.com/YogevKr/confrenceradar)** — Tracks conferences worth attending.
 - 🔗 **[save-to-goodlinks-chrome-extension](https://github.com/YogevKr/save-to-goodlinks-chrome-extension)** — One-click "Save to GoodLinks" from any browser tab.
 
@@ -37,4 +37,4 @@
 
 ---
 
-<sub>📊 [browse all 59 repos →](https://github.com/YogevKr?tab=repositories)</sub>
+<sub>📊 [browse public repos →](https://github.com/YogevKr?tab=repositories)</sub>
