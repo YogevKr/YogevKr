@@ -13,6 +13,7 @@
 - ✈️ **[itamx](https://github.com/YogevKr/itamx)** — ITA Matrix airfare search as CLI + MCP server (via the reverse-engineered JSON API).
 - 📓 **[mncli](https://github.com/YogevKr/mncli)** — Talk to a running marimo notebook from your shell.
 - ✅ **[things-cli](https://github.com/YogevKr/things-cli)** — Rust CLI letting agents work directly with Things 3.
+- 🖥️ **[zt](https://github.com/YogevKr/zt)** — Browse and manage remote Zellij sessions over SSH or mosh.
 - 🔖 **[x-bookmarks](https://github.com/YogevKr/x-bookmarks)** — Pipe your X bookmarks through grep, jq & friends.
 
 ### 🏠 Home & Hardware
@@ -25,7 +26,6 @@
 ### 🔔 Notifiers & Relays
 
 - 🚨 **[red-alerts-notifier](https://github.com/YogevKr/red-alerts-notifier)** — Self-hosted Home Front Command red-alert notifier (WhatsApp + Telegram).
-- 🧠 **[nanoclaw](https://github.com/YogevKr/nanoclaw)** — Containerized messaging-agent runner for WhatsApp, Telegram, Slack, Discord & Gmail.
 - 🎤 **[confrenceradar](https://github.com/YogevKr/confrenceradar)** — Tracks conferences worth attending.
 - 🔗 **[save-to-goodlinks-chrome-extension](https://github.com/YogevKr/save-to-goodlinks-chrome-extension)** — One-click "Save to GoodLinks" from any browser tab.
 
