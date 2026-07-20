@@ -10,15 +10,19 @@
 
 - 🦀 **[agent-history](https://github.com/YogevKr/agent-history)** — Unified TUI for Claude Code & Codex session history. Syntax highlight, search, scrub.
 - 📱 **[agent-tether](https://github.com/YogevKr/agent-tether)** — Drive your local coding agent from Telegram.
+- 🧵 **[codexspin](https://github.com/YogevKr/codexspin)** — Spawn and drive parallel Codex sessions: worktree fleets, background jobs, remote hosts.
 - ✈️ **[itamx](https://github.com/YogevKr/itamx)** — ITA Matrix airfare search as CLI + MCP server (via the reverse-engineered JSON API).
 - 📓 **[mncli](https://github.com/YogevKr/mncli)** — Talk to a running marimo notebook from your shell.
+- ☁️ **[remarkable-cloud](https://github.com/YogevKr/remarkable-cloud)** — Self-hosted reMarkable cloud sync on Cloudflare Workers + R2 + D1.
 - ✅ **[things-cli](https://github.com/YogevKr/things-cli)** — Rust CLI letting agents work directly with Things 3.
+- 🌀 **[wraith](https://github.com/YogevKr/wraith)** — Identity-borrowing stealth browser for autonomous agents (Camoufox + WAAP clearing + MCP).
 - 🖥️ **[zt](https://github.com/YogevKr/zt)** — Browse and manage remote Zellij sessions over SSH or mosh.
 - 🔖 **[x-bookmarks](https://github.com/YogevKr/x-bookmarks)** — Pipe your X bookmarks through grep, jq & friends.
 
 ### 🏠 Home & Hardware
 
 - 🚨 **[risco-control](https://github.com/YogevKr/risco-control)** — Full Risco alarm panel control. 307/307 commands. Web UI + macOS app.
+- ❄️ **[coolmaster-cli](https://github.com/YogevKr/coolmaster-cli)** — Command-line toolkit for CoolMaster gateways on Samsung VRF HVAC.
 - 📟 **[provision-isr-alarm-server](https://github.com/YogevKr/provision-isr-alarm-server)** — Reverse-engineered server for Provision-ISR alarm panels.
 - 👶 **[nanit-camera-light](https://github.com/YogevKr/nanit-camera-light)** — Toggle the LED on Nanit baby cameras.
 - ⚡ **[home-energy-reporter](https://github.com/YogevKr/home-energy-reporter)** — Smart-meter consumption pulled into a daily report.
@@ -26,13 +30,11 @@
 ### 🔔 Notifiers & Relays
 
 - 🚨 **[red-alerts-notifier](https://github.com/YogevKr/red-alerts-notifier)** — Self-hosted Home Front Command red-alert notifier (WhatsApp + Telegram).
-- 🎤 **[confrenceradar](https://github.com/YogevKr/confrenceradar)** — Tracks conferences worth attending.
 - 🔗 **[save-to-goodlinks-chrome-extension](https://github.com/YogevKr/save-to-goodlinks-chrome-extension)** — One-click "Save to GoodLinks" from any browser tab.
 
 ### 📦 And also
 
 - 🍺 **[homebrew-tap](https://github.com/YogevKr/homebrew-tap)** — My homebrew formulae.
-- 🗂️ **[dotfiles](https://github.com/YogevKr/dotfiles)** — How my machine looks at 2am.
 - 📝 **[draftsx](https://github.com/YogevKr/draftsx)** — Drafts.app helper.
 
 ---
