@@ -13,6 +13,8 @@
 - 🧵 **[codexspin](https://github.com/YogevKr/codexspin)** — Spawn and drive parallel Codex sessions: worktree fleets, background jobs, remote hosts.
 - ✈️ **[itamx](https://github.com/YogevKr/itamx)** — ITA Matrix airfare search as CLI + MCP server (via the reverse-engineered JSON API).
 - 📓 **[mncli](https://github.com/YogevKr/mncli)** — Talk to a running marimo notebook from your shell.
+- 🔐 **[opgate](https://github.com/YogevKr/opgate)** — Scoped, cached 1Password secrets for shells and AI agents: agents get a vault-scoped token, your account stays out of reach.
+- 🐑 **[rai](https://github.com/YogevKr/rai)** — Native macOS window for your herdr herd. Fast SwiftUI client over herdr's socket API.
 - ☁️ **[remarkable-cloud](https://github.com/YogevKr/remarkable-cloud)** — Self-hosted reMarkable cloud sync on Cloudflare Workers + R2 + D1.
 - ✅ **[things-cli](https://github.com/YogevKr/things-cli)** — Rust CLI letting agents work directly with Things 3.
 - 🌀 **[wraith](https://github.com/YogevKr/wraith)** — Identity-borrowing stealth browser for autonomous agents (Camoufox + WAAP clearing + MCP).
