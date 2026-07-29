@@ -9,7 +9,6 @@
 ### 🛠️ Current Projects
 
 - 🦀 **[agent-history](https://github.com/YogevKr/agent-history)** — Unified TUI for Claude Code & Codex session history. Syntax highlight, search, scrub.
-- 📱 **[agent-tether](https://github.com/YogevKr/agent-tether)** — Drive your local coding agent from Telegram.
 - 🧵 **[codexspin](https://github.com/YogevKr/codexspin)** — Spawn and drive parallel Codex sessions: worktree fleets, background jobs, remote hosts.
 - ✈️ **[itamx](https://github.com/YogevKr/itamx)** — ITA Matrix airfare search as CLI + MCP server (via the reverse-engineered JSON API).
 - 📓 **[mncli](https://github.com/YogevKr/mncli)** — Talk to a running marimo notebook from your shell.
